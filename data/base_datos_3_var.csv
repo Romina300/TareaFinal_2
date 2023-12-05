@@ -1,51 +1,26 @@
-﻿Provincia;Índice de Desarrollo Humano;Tuberculosis (cant. personas );Pobreza personas(%);Año
-Ciudad Autonoma de Buenos Aires;0,882;28; 1,3;2019
-Buenos Aires;0,842;209;11,3;2019
-Cordoba;0,858;19; 7,9;2019
-Entre Rios;0,836;5; 3,4;2019
-Santa Fe;0,841;25; 3,5;2019
-La Rioja;0,840;4; 6,8;2019
-Mendoza;0,848;8; 5,8;2019
-San Juan;0,838;7; 8,6;2019
-San Luis;0,843;1; 7,6;2019
-Catamarca;0,844;2; 6,8;2019
-Jujuy;0,840;10; 5,7;2019
-Salta;0,844;21; 3,2;2019
-Santiago Del Estero;0,833;2; 7,9;2019
-Tucuman;0,841;3; 4,8;2019
-Corrientes;0,839;10; 6,6;2019
-Chaco;0,808;7; 4,4;2019
-Formosa;0,822;4;11,0;2019
-Misiones;0,842;14; 5,7;2019
-Chubut;0,858;9; 7,6;2019
-Neuquen;0,832;6; 5,1;2019
-Rio Negro;0,843;8; 7,0;2019
-Santa Cruz;0,854;4;;2019
-Tierra del Fuego;0,856;1;2,8;2019
-;;;;
-;;;;
-;;;;
-Buenos Aires;;;;
-La Pampa;;;;
-Chubut;;;;
-Córdoba;;;;
-Tierra del Fuego;;;;
-Santa Cruz;;;;
-Mendoza;;;;
-Salta;;;;
-Catamarca;;;;
-Negro;;;;
-San Luis;;;;
-Misiones;;;;
-Buenos Aires;;;;
- Santa Fe;;;;
-Tucumán Tucumán;;;;
-La Rioja;;;;
-Jujuy;;;;
-Corrientes;;;;
-San Juan;;;;
-Entre Ríos;;;;
-Santiago del Estero Santiago del Estero;;;;
-Neuquén;;;;
-Formosa;;;;
-Chaco;;;;
+﻿Provincia;IDH_2019;muertes_Tuberculosis ;Pobreza_personas(%);Año;Pais
+Ciudad Autonoma de Buenos Aires;0,882;28; 1,3;2019;Argentina
+Buenos Aires;0,842;209;11,3;2019;Argentina
+Cordoba;0,858;19; 7,9;2019;Argentina
+Entre Rios;0,836;5; 3,4;2019;Argentina
+Santa Fe;0,841;25; 3,5;2019;Argentina
+La Rioja;0,840;4; 6,8;2019;Argentina
+Mendoza;0,848;8; 5,8;2019;Argentina
+San Juan;0,838;7; 8,6;2019;Argentina
+San Luis;0,843;1; 7,6;2019;Argentina
+Catamarca;0,844;2; 6,8;2019;Argentina
+Jujuy;0,840;10; 5,7;2019;Argentina
+Salta;0,844;21; 3,2;2019;Argentina
+Santiago Del Estero;0,833;2; 7,9;2019;Argentina
+Tucuman;0,841;3; 4,8;2019;Argentina
+Corrientes;0,839;10; 6,6;2019;Argentina
+Chaco;0,808;7; 4,4;2019;Argentina
+Formosa;0,822;4;11,0;2019;Argentina
+Misiones;0,842;14; 5,7;2019;Argentina
+Chubut;0,858;9; 7,6;2019;Argentina
+Neuquen;0,832;6; 5,1;2019;Argentina
+Rio Negro;0,843;8; 7,0;2019;Argentina
+Santa Cruz;0,854;4;;2019;Argentina
+Tierra del Fuego;0,856;1;2,8;2019;Argentina
+Gran Tucumán -Tafí Viejo;0,841;2;7,4;2019;Argentina
+Jujuy-Palpalá;0,839;6;6,5;2019;Argentina
